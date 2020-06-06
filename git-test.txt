@@ -1,0 +1,4 @@
+1   git-test.txt
+2   initial version
+3   to test the git functions
+4   added 1 line
